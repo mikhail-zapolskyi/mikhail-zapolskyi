@@ -3,7 +3,7 @@
 
 <!-- Contacts -->
 <p align="center">
-     <ul>
+     <ul dislpay="flex">
           <li><a href="https://mzapolskyi.tech" target="_blank">Website</a></li>
           <li><a href="https://www.linkedin.com/in/mikhailzapolskyi/" target="_blank">LinkedIn</a></li>
           <li><a href="https://github.com/mikhail-zapolskyi" target="_blank">GitHub</a></li>
