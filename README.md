@@ -3,10 +3,12 @@
 
 <!-- Contacts -->
 <p align="center">
-  <a href="https://mzapolskyi.tech">Website</a> •
-  <a href="https://www.linkedin.com/in/mikhailzapolskyi/">LinkedIn</a> •
-  <a href="https://github.com/mikhail-zapolskyi">GitHub</a> •
-  <a href="mailto:mykhailo.zapolskyi@gmail.com">Email</a>
+     <ul>
+          <li><a href="https://mzapolskyi.tech" target="_blank">Website</a></li>
+          <li><a href="https://www.linkedin.com/in/mikhailzapolskyi/" target="_blank">LinkedIn</a></li>
+          <li><a href="https://github.com/mikhail-zapolskyi" target="_blank">GitHub</a></li>
+          <li><a href="mailto:mykhailo.zapolskyi@gmail.com" target="_blank">Email</a></li>
+     </ul>
 </p>
 
 <!-- Profile -->
@@ -14,10 +16,10 @@ My career as a telecommunication technician at AFL Global led me to discover tha
 
 <!-- Current State -->
 <ul>
-     <li>🔭 I’m currently learnig  <strong>Backend Development and Typescript</strong></li>
-     <li>🌱 I’m currently Working with techs:  <strong>NodeJS, ExpressJS, MongoDB</strong></li>
-     <li>💬 Ask me about anything, I am happy to help</strong></li>
-     <li>🌐 Visit my [porfolio website](https://mzapolskyi.tech/)</li>
+     <li>🔭 I’m currently learnig <strong>Backend Development and Typescript</strong></li>
+     <li>🌱 I’m currently Working with techs: <strong>NodeJS, ExpressJS, MongoDB</strong></li>
+     <li>💬 Ask me about anything, I am happy to help</li>
+     <li>🌐 Visit my <a href="https://mzapolskyi.tech" target="_blank">Portfolio website</a></li>
 </ul>
 
 <!-- TECH STACK -->
