@@ -6,6 +6,8 @@
   <a href="https://mzapolskyi.tech">Website</a> •
   <a href="https://www.linkedin.com/in/mikhailzapolskyi/">LinkedIn</a> •
   <a href="https://github.com/mikhail-zapolskyi">GitHub</a>
+  <a href="tel:403-990-9070">Call</a>
+  <a href="mailto:mykhailo.zapolskyi@gmail.com">Email</a>
 </p>
 
 <!-- Profile -->
