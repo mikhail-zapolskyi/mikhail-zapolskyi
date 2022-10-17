@@ -3,12 +3,10 @@
 
 <!-- Contacts -->
 <p align="center">
-     <ul style="display: flex; align-items: flex-start;">
-          <li><a href="https://mzapolskyi.tech" target="_blank">Website</a></li>
-          <li><a href="https://www.linkedin.com/in/mikhailzapolskyi/" target="_blank">LinkedIn</a></li>
-          <li><a href="https://github.com/mikhail-zapolskyi" target="_blank">GitHub</a></li>
-          <li><a href="mailto:mykhailo.zapolskyi@gmail.com" target="_blank">Email</a></li>
-     </ul>
+  <a href="https://mzapolskyi.tech" target="_blank">Website</a> •
+  <a href="https://www.linkedin.com/in/mikhailzapolskyi/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/mikhail-zapolskyi" target="_blank">GitHub</a> •
+  <a href="mailto:mykhailo.zapolskyi@gmail.com" target="_blank">Email</a>
 </p>
 
 <!-- Profile -->
