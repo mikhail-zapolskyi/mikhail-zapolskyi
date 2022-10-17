@@ -13,14 +13,18 @@
 My career as a telecommunication technician at AFL Global led me to discover that I could combine my strong technical problem-solving skills with my interest in coding. Currently, I am looking to pivot into a full-stack web developer role.
 
 <!-- Current State -->
-
-- 🔭 I’m currently learnig  **Backend Development and Typescript**
-- 🌱 I’m currently Working with techs, **NodeJS, ExpressJS, MongoDB, PostgreSQl**
-- 💬 Ask me about anything, I am happy to help
-- 🌐 Visit my [porfolio website](https://mzapolskyi.tech/).
+<ul>
+     <li>🔭 I’m currently learnig  <strong>Backend Development and Typescript</strong></li>
+     <li>🌱 I’m currently Working with techs:  <strong>NodeJS, ExpressJS, MongoDB</strong></li>
+     <li>💬 Ask me about anything, I am happy to help</strong></li>
+     <li>🌐 Visit my [porfolio website](https://mzapolskyi.tech/)</li>
+</ul>
 
 <!-- TECH STACK -->
+
 <h2>Tech stack</h2>
-- **Front end** - HTML5, CSS3, JavaScript, React, Redux
-- **Backend** - NodeJs, ExpressJs
-- **Database** - MongoDb, PostgreSQL
+<ul>
+     <li><strong>Front end</strong> - HTML5, CSS3, JavaScript, React, Redux</li>
+     <li><strong>Backend</strong> - NodeJs, ExpressJs</li>
+     <li><strong>Database</strong> - MongoDb, PostgreSQL</li>
+</ul>
