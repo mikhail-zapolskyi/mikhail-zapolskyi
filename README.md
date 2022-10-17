@@ -20,7 +20,7 @@ My career as a telecommunication technician at AFL Global led me to discover tha
 - 🌐 Visit my [porfolio website](https://mzapolskyi.tech/).
 
 <!-- TECH STACK -->
-** Tech stack
+<h2>Tech stack</h2>
 - **Front end** - HTML5, CSS3, JavaScript, React, Redux
 - **Backend** - NodeJs, ExpressJs
 - **Database** - MongoDb, PostgreSQL
