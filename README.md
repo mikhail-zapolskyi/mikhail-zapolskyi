@@ -1,5 +1,5 @@
 <!-- Heading -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=60000&color=7FB1F4&background=5C3AFF00&center=true&width=1024&lines=Hi+there%2C+I'm+Mykhailo+Zapolskyi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=60000&color=7FB1F4&background=5C3AFF00&center=true&width=1024&lines=Hi+there%2C+I'm+Mykhailo+Zapolskyi)](https://git.io/typing-svg)
 
 <!-- Contacts -->
 <p align="center">
