@@ -18,9 +18,9 @@ My career as a telecommunication technician at AFL Global led me to discover tha
      <li>💬 Feel free to <a href="mailto:mykhailo.zapolskyi@gmail.com" target="_blank" rel="noopener noreferrer">drop me a line</a> if you have any questions</li>
 </ul>
 
-<!-- MY TECH STACK -->
+<!-- TECH STACK -->
 
-<h2>Tech stack</h2>
+<h2>My tech stack</h2>
 <ul>
      <li><strong>Front end</strong> - HTML5, CSS3, JavaScript, React, Redux</li>
      <li><strong>Backend</strong> - NodeJs, ExpressJs</li>
