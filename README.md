@@ -3,9 +3,9 @@
 
 <!-- Contacts -->
 <p align="center">
-  <a href="https://mzapolskyi.tech" target="_blank">Website</a> •
-  <a href="https://www.linkedin.com/in/mikhailzapolskyi/" target="_blank">LinkedIn</a> •
-  <a href="mailto:mykhailo.zapolskyi@gmail.com" target="_blank">Email</a>
+  <a href="https://mzapolskyi.tech" target="_blank" rel="noopener noreferrer">Website</a> •
+  <a href="https://www.linkedin.com/in/mikhailzapolskyi" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+  <a href="mailto:mykhailo.zapolskyi@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
 </p>
 
 <!-- Profile -->
@@ -14,8 +14,8 @@ My career as a telecommunication technician at AFL Global led me to discover tha
 <!-- Current State -->
 <ul>
      <li>🔭 I’m currently learnig <strong>Backend Development and Typescript</strong></li>
-     <li>🌐 Visit my <a href="https://mzapolskyi.tech" target="_blank">Portfolio website</a></li>
-     <li>💬 Feel free to [drop me a line](mailto:mykhailo.zapolskyi@gmail.com) if you have any questions</li>
+     <li>🌐 Check out my <a href="https://mzapolskyi.tech" target="_blank" rel="noopener noreferrer">Portfolio website</a></li>
+     <li>💬 Feel free to <a href="mailto:mykhailo.zapolskyi@gmail.com" target="_blank" rel="noopener noreferrer">drop me a line</a> if you have any questions</li>
 </ul>
 
 <!-- MY TECH STACK -->
