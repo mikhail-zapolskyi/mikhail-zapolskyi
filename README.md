@@ -11,7 +11,8 @@
 
 <!-- Profile -->
 
-Software Engineer (Developer) with over 2 years of experience, specializing in React.js, Node.js, JavaScript, MongoDB, and other common web development technologies. I am constantly eager to expand my skill set and knowledge, which has led me to continuously learn new tools and features that I can apply in my work.
+As an aspiring Full Stack Developer, I have more than a year of experience specializing in React.js, Node.js, JavaScript, and MongoDB, with a thorough understanding of query languages, APIs, and data pipelines. Additionally, I possess proven UI/UX skills, which prioritize users with varying technical proficiency and data literacy levels. I am highly motivated to learn continuously, collaborate effectively, and enhance my skills. I am committed to delivering high-quality solutions as an agile development team member
+
 
 With my experience in building web and mobile interfaces to display information, I possess proven UI or UX skills that consider users with varying technical proficiency and data literacy levels. Additionally, I have a thorough understanding of query languages, APIs, and data pipelines, and I can work with them effectively.
 
