@@ -11,10 +11,9 @@
 
 <!-- Profile -->
 
-As an aspiring Full Stack Developer, I have more than a year of experience specializing in React.js, Node.js, JavaScript, and MongoDB, with a thorough understanding of query languages, APIs, and data pipelines. Additionally, I possess proven UI/UX skills, which prioritize users with varying technical proficiency and data literacy levels. I am highly motivated to learn continuously, collaborate effectively, and enhance my skills. I am committed to delivering high-quality solutions as an agile development team member
+Software Developer with over 1 years of work experience and knowledge of React.js, Node.js, JavaScript, HTML, SCSS, and other common web development technologies My eagerness to continuously expand my skill set and knowledge has led me to learn new tools and features which I regularly apply
 
-
-With my experience in building web and mobile interfaces to display information, I possess proven UI or UX skills that consider users with varying technical proficiency and data literacy levels. Additionally, I have a thorough understanding of query languages, APIs, and data pipelines, and I can work with them effectively.
+With my experience in building web and/or mobile interfaces to display information, I possess proven UI or UX skills that consider users with varying technical proficiency and data literacy levels. Additionally, I have a thorough understanding of query languages, APIs, and data pipelines, and I can work with them effectively
 
 <!-- Current State -->
 <ul>
