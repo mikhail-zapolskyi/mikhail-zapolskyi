@@ -18,7 +18,7 @@ With my experience in building web and/or mobile interfaces to display informati
 <!-- Current State -->
 <ul>
      <li>🔭 I’m currently learnig <strong>Backend Development and Typescript</strong></li>
-     <li>🌐 Check out my <a href="https://mzapolskyi.tech" target="_blank" rel="noopener noreferrer">Portfolio website</a></li>
+     <li>🌐 Check out my <a href="https://mzapolskyi.com" target="_blank" rel="noopener noreferrer">Portfolio website</a></li>
      <li>💬 Feel free to <a href="mailto:mykhailo.zapolskyi@gmail.com" target="_blank" rel="noopener noreferrer">drop me a line</a> if you have any questions</li>
 </ul>
 
