@@ -4,7 +4,7 @@
 
 <!-- Contacts -->
 <p align="center">
-  <a href="https://mzapolskyi.tech" target="_blank" rel="noopener noreferrer">Website</a> •
+  <a href="https://mzapolskyi.com" target="_blank" rel="noopener noreferrer">Website</a> •
   <a href="https://www.linkedin.com/in/mikhailzapolskyi" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
   <a href="mailto:mykhailo.zapolskyi@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
 </p>
