@@ -11,7 +11,7 @@
 
 <!-- Profile -->
 
-Software Developer with over 1 years of work experience and knowledge of React.js, Node.js, JavaScript, HTML, SCSS, and other common web development technologies My eagerness to continuously expand my skill set and knowledge has led me to learn new tools and features which I regularly apply
+Software Developer with over 2 years of work experience and knowledge of React.js, Node.js, JavaScript, HTML, SCSS, and other common web development technologies My eagerness to continuously expand my skill set and knowledge has led me to learn new tools and features which I regularly apply
 
 With my experience in building web and/or mobile interfaces to display information, I possess proven UI or UX skills that consider users with varying technical proficiency and data literacy levels. Additionally, I have a thorough understanding of query languages, APIs, and data pipelines, and I can work with them effectively
 
