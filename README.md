@@ -31,9 +31,3 @@
     <li><strong>Database</strong> - MongoDB</li>
     <li><strong>Database</strong> -  C#, .Net, PostgreSQL, MUI, Tailwind, Typescript, Python</li>
 </ul>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
