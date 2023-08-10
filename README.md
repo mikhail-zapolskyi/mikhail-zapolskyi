@@ -32,4 +32,3 @@
       <li><strong>Database</strong> -  C#, .Net, PostgreSQL, MUI, Tailwind, Typescript, Python</li>
 </ul>
 
-![image](https://github.com/mikhail-zapolskyi/mikhail-zapolskyi/assets/19739159/fa53c016-ed00-4d8f-ae76-3d34353c95b8)
