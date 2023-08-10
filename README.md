@@ -11,11 +11,11 @@
 
 <!-- Profile -->
 
-Software Developer with over 2 years of work experience and knowledge of React.js, Node.js, JavaScript, HTML, SCSS, and other common web development technologies My eagerness to continuously expand my skill set and knowledge has led me to learn new tools and features which I regularly apply
 
-With my experience in building web and/or mobile interfaces to display information, I possess proven UI or UX skills that consider users with varying technical proficiency and data literacy levels. Additionally, I have a thorough understanding of query languages, APIs, and data pipelines, and I can work with them effectively
+Hey Full Stack Developer with a passion for crafting responsive web applications. Proficient in React, leveraging TypeScript for robust, scalable front-end solutions. Utilized Node.js and Express.js to create efficient, high-performance APIs. Excels in MongoDB for seamless data management. Achieved streamlined user experiences by integrating React with Express for real-time updates, enhancing application responsiveness. Committed to delivering clean code and continuous learning. Eager to contribute innovative solutions and collaborate on exciting projects.
 
 <!-- Current State -->
+
 <ul>
      <li>🔭 I’m currently learnig <strong>Backend Development and Typescript</strong></li>
      <li>🌐 Check out my <a href="https://mzapolskyi.com" target="_blank" rel="noopener noreferrer">Portfolio website</a></li>
@@ -26,7 +26,10 @@ With my experience in building web and/or mobile interfaces to display informati
 
 <h2>My tech stack</h2>
 <ul>
-     <li><strong>Front end</strong> - HTML5, CSS3, JavaScript, React, Redux</li>
+     <li><strong>Frontend</strong> - React, NextJS, JavaScript, Redux Toolkit</li>
      <li><strong>Backend</strong> - NodeJs, ExpressJs</li>
-     <li><strong>Database</strong> - MongoDB, PostgreSQL</li>
+     <li><strong>Database</strong> - MongoDB</li>
+      <li><strong>Database</strong> -  C#, .Net, PostgreSQL, MUI, Tailwind, Typescript, Python</li>
 </ul>
+
+![image](https://github.com/mikhail-zapolskyi/mikhail-zapolskyi/assets/19739159/fa53c016-ed00-4d8f-ae76-3d34353c95b8)
