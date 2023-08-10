@@ -22,16 +22,6 @@
    <li>💬 Feel free to <a href="mailto:mykhailo.zapolskyi@gmail.com" target="_blank" rel="noopener noreferrer">drop me a line</a> if you have any questions</li>
 </ul>
 
-<!-- TECH STACK -->
-
-<h2>Languages and Tools</h2>
-<ul>
-    <li><strong>Frontend</strong> - React, NextJS, JavaScript, Redux Toolkit</li>
-    <li><strong>Backend</strong> -  Nodejs, Express </li>
-    <li><strong>Database</strong> - MongoDB</li>
-    <li><strong>Database</strong> -  C#, .Net, PostgreSQL, MUI, Tailwind, Typescript, Python</li>
-</ul>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mikhailzapolskyi/) 
