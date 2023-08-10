@@ -12,7 +12,7 @@
 <!-- Profile -->
 
 
-<p text-indent="30px">Imagine a coding wizard who crafts web apps that respond faster than a caffeinated squirrel! I'm the Full Stack Developer you've been searching for, turning React into a magical spell for seamless front-end wonders. I wield TypeScript like a sword for robustness, and with Node.js and Express.js, I'm like a speedster delivering APIs so efficient they make traditional databases jealous. MongoDB is my trusty sidekick for data management, and I combine React with Express for real-time updates that'll make your app feel more alive than a rock concert. I'm not just a developer, I'm a code-cleaner, a learning machine, and your ticket to innovation. Let's collaborate on exciting projects, because together, we'll create digital magic!</p>
+<p style="text-indent: 1rem">Imagine a coding wizard who crafts web apps that respond faster than a caffeinated squirrel! I'm the Full Stack Developer you've been searching for, turning React into a magical spell for seamless front-end wonders. I wield TypeScript like a sword for robustness, and with Node.js and Express.js, I'm like a speedster delivering APIs so efficient they make traditional databases jealous. MongoDB is my trusty sidekick for data management, and I combine React with Express for real-time updates that'll make your app feel more alive than a rock concert. I'm not just a developer, I'm a code-cleaner, a learning machine, and your ticket to innovation. Let's collaborate on exciting projects, because together, we'll create digital magic!</p>
 
 <!-- Current State -->
 
