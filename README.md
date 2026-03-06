@@ -3,7 +3,7 @@
 ### Full Stack Developer • AI-Augmented Engineer • Next.js / TypeScript
 
 I build modern web applications by combining **strong engineering fundamentals with AI-assisted development workflows**.  
-My focus is creating **fast, scalable, and intelligent systems** using modern JavaScript ecosystems and advanced AI tooling.
+My focus is creating **fast, scalable, and intelligent systems** using modern JavaScript ecosystems and advanced AI tools.
 
 ---
 
@@ -13,7 +13,7 @@ I'm a **full-stack developer working at the intersection of software engineering
 
 I actively integrate modern AI tools such as **Codex, Claude, and other LLM systems** into my development workflow to accelerate engineering, improve architecture quality, and automate complex development tasks.
 
-My stack centers around:
+My work focuses on:
 
 - **Next.js / React ecosystems**
 - **TypeScript-first architecture**
@@ -32,7 +32,7 @@ I enjoy building systems that are:
 
 # 🌐 Major Projects
 
-## 🎨 ColorPageLab
+## 🎨 ColorPageLab  
 https://colorpagelab.com/
 
 An AI-powered platform that generates **printable coloring pages** using structured prompt engineering and generative models.
@@ -42,7 +42,7 @@ Key features:
 - AI-generated coloring pages
 - scalable generation pipeline
 - structured prompt systems
-- SEO optimized content architecture
+- SEO-optimized content architecture
 - automated publishing workflows
 
 Technologies:
@@ -51,7 +51,7 @@ Next.js • TypeScript • AI generation pipelines • automated content systems
 
 ---
 
-## 🧠 SynaNote AI
+## 🧠 SynaNote AI  
 https://synanoteai.com/
 
 An AI-powered knowledge and note platform designed to improve productivity and information organization.
@@ -85,7 +85,6 @@ mykhailo.zapolskyi@gmail.com
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp)
 
 ---
 
@@ -106,7 +105,7 @@ mykhailo.zapolskyi@gmail.com
 
 ### Databases
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
@@ -114,11 +113,11 @@ mykhailo.zapolskyi@gmail.com
 
 ### AI-Assisted Development
 
-Tools I actively use to accelerate development:
+Tools I actively use in my development workflow:
 
 - OpenAI Codex
 - Claude
-- LLM development workflows
+- modern LLM engineering workflows
 - AI-assisted architecture and code generation
 - prompt engineering systems
 
@@ -152,7 +151,7 @@ Tools I actively use to accelerate development:
 
 # 💡 Development Philosophy
 
-Modern software engineering is shifting toward **AI-augmented development**, where engineers design systems and workflows while AI accelerates implementation.
+Modern software engineering is evolving into **AI-augmented development**, where engineers design systems and workflows while AI accelerates implementation.
 
 My priorities:
 
