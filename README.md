@@ -2,31 +2,39 @@
 
 ### Full Stack Developer • AI-Augmented Engineer • Next.js / TypeScript
 
-I build modern web applications by combining **strong engineering fundamentals with AI-assisted development workflows**.  
-My focus is creating **fast, scalable, and intelligent systems** using modern JavaScript ecosystems and advanced AI tools.
+I build modern web applications by combining **strong software engineering practices with AI-assisted development workflows**.
+
+My work focuses on building **fast, scalable, and intelligent systems** using modern JavaScript ecosystems and advanced AI tools.
 
 ---
 
 # 🚀 About Me
 
-I'm a **full-stack developer working at the intersection of software engineering and AI-driven development**.
+I'm a **full-stack developer and AI-augmented engineer** building products both independently and through my development brand **MiArtMedia**.
 
-I actively integrate modern AI tools such as **Codex, Claude, and other LLM systems** into my development workflow to accelerate engineering, improve architecture quality, and automate complex development tasks.
+👤 Personal GitHub  
+https://github.com/mikhail-zapolskyi
 
-My work focuses on:
+🏢 Development Brand  
+https://github.com/MiArtMedia
 
-- **Next.js / React ecosystems**
-- **TypeScript-first architecture**
-- **Node.js backend systems**
-- **AI-assisted development workflows**
-- **scalable system design**
+I actively integrate modern AI tools such as:
 
-I enjoy building systems that are:
+- OpenAI Codex
+- Claude
+- LLM engineering workflows
+- prompt-engineering pipelines
 
-⚡ Fast  
-🧠 Intelligent  
-🧱 Architecturally clean  
-📈 Scalable in production
+These tools help accelerate development while maintaining **clean architecture and production-quality code**.
+
+My core focus areas include:
+
+- Next.js / React ecosystems
+- TypeScript-first architecture
+- Node.js backend systems
+- AI-powered applications
+- scalable SaaS platforms
+- developer tooling and automation
 
 ---
 
@@ -39,22 +47,22 @@ An AI-powered platform that generates **printable coloring pages** using structu
 
 Key features:
 
-- AI-generated coloring pages
+- AI generated coloring pages
 - scalable generation pipeline
-- structured prompt systems
-- SEO-optimized content architecture
+- structured prompt architecture
 - automated publishing workflows
+- SEO optimized content architecture
 
 Technologies:
 
-Next.js • TypeScript • AI generation pipelines • automated content systems
+Next.js • TypeScript • AI generation pipelines
 
 ---
 
 ## 🧠 SynaNote AI  
 https://synanoteai.com/
 
-An AI-powered knowledge and note platform designed to improve productivity and information organization.
+An AI-powered knowledge and productivity platform designed to organize notes and information using intelligent automation.
 
 Key features:
 
@@ -65,7 +73,7 @@ Key features:
 
 Technologies:
 
-Next.js • Node.js • AI integrations • scalable backend systems
+Next.js • Node.js • AI integrations
 
 ---
 
@@ -125,33 +133,37 @@ Tools I actively use in my development workflow:
 
 # 📊 GitHub Analytics
 
-### GitHub Stats
+## Personal Account
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhail-zapolskyi&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhail-zapolskyi&show_icons=true&theme=transparent)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-zapolskyi&layout=compact&theme=transparent)
 
-### GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikhail-zapolskyi&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=mikhail-zapolskyi&theme=transparent)
 
 ---
 
-### Most Used Languages
+## MiArtMedia Organization
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-zapolskyi&layout=compact&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiArtMedia&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiArtMedia&layout=compact&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MiArtMedia&theme=transparent)
 
 ---
 
-# 📈 Profile Visitors
+# 👀 Profile Visitors
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=mikhail-zapolskyi&icon=5&color=12)
+![Visitor Badge](https://komarev.com/ghpvc/?username=mikhail-zapolskyi&color=blue)
 
 ---
 
 # 💡 Development Philosophy
 
-Modern software engineering is evolving into **AI-augmented development**, where engineers design systems and workflows while AI accelerates implementation.
+Modern engineering is evolving into **AI-augmented development**.
+
+Engineers design systems and architecture while AI accelerates implementation.
 
 My priorities:
 
@@ -159,7 +171,7 @@ My priorities:
 - scalable systems
 - performance-focused design
 - developer productivity
-- responsible use of AI to build better software faster
+- responsible use of AI
 
 ---
 
