@@ -2,49 +2,48 @@
 
 ### Full Stack Developer • AI-Augmented Engineer • Next.js / TypeScript
 
-I build modern web applications that combine **strong engineering fundamentals with AI-assisted development workflows**.  
-My focus is creating **fast, scalable, and intelligent systems** using modern JavaScript ecosystems and the latest AI tools.
+I build modern web applications by combining **strong engineering fundamentals with AI-assisted development workflows**.  
+My focus is creating **fast, scalable, and intelligent systems** using modern JavaScript ecosystems and advanced AI tooling.
 
 ---
 
 # 🚀 About Me
 
-I'm a **full-stack developer working at the intersection of software engineering and AI-assisted development**.
+I'm a **full-stack developer working at the intersection of software engineering and AI-driven development**.
 
-Instead of using AI as a toy, I design **structured workflows that integrate models like Codex, Claude, and other LLM tools directly into the development process** to accelerate engineering, improve architecture quality, and automate complex tasks.
+I actively integrate modern AI tools such as **Codex, Claude, and other LLM systems** into my development workflow to accelerate engineering, improve architecture quality, and automate complex development tasks.
 
-My approach combines:
+My stack centers around:
 
 - **Next.js / React ecosystems**
 - **TypeScript-first architecture**
 - **Node.js backend systems**
-- **modern observability and system design**
-- **AI-assisted development pipelines**
+- **AI-assisted development workflows**
+- **scalable system design**
 
 I enjoy building systems that are:
 
-- ⚡ Fast  
-- 🧠 Intelligent  
-- 🧱 Architecturally clean  
-- 📈 Scalable in production  
+⚡ Fast  
+🧠 Intelligent  
+🧱 Architecturally clean  
+📈 Scalable in production
 
 ---
 
 # 🌐 Major Projects
 
 ## 🎨 ColorPageLab
-
 https://colorpagelab.com/
 
-An AI-powered platform that generates **high-quality printable coloring pages** using structured prompt engineering and generative models.
+An AI-powered platform that generates **printable coloring pages** using structured prompt engineering and generative models.
 
 Key features:
 
-- AI generated coloring pages
-- curated printable collections
-- SEO optimized content architecture
+- AI-generated coloring pages
 - scalable generation pipeline
 - structured prompt systems
+- SEO optimized content architecture
+- automated publishing workflows
 
 Technologies:
 
@@ -53,30 +52,26 @@ Next.js • TypeScript • AI generation pipelines • automated content systems
 ---
 
 ## 🧠 SynaNote AI
-
 https://synanoteai.com/
 
-An AI-powered note and knowledge platform designed to improve productivity and information organization.
+An AI-powered knowledge and note platform designed to improve productivity and information organization.
 
 Key features:
 
-- intelligent note generation
-- AI-assisted organization
-- knowledge structuring
+- AI-assisted note generation
+- structured knowledge organization
 - productivity workflows
+- modern SaaS architecture
 
 Technologies:
 
-Next.js • Node.js • AI integrations • modern SaaS architecture
+Next.js • Node.js • AI integrations • scalable backend systems
 
 ---
 
 # 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mikhailzapolskyi/)
-
-🌐 Portfolio  
-https://mzapolskyi.com
 
 📩 Contact  
 mykhailo.zapolskyi@gmail.com
@@ -119,11 +114,11 @@ mykhailo.zapolskyi@gmail.com
 
 ### AI-Assisted Development
 
-Tools I actively use to accelerate engineering:
+Tools I actively use to accelerate development:
 
 - OpenAI Codex
 - Claude
-- modern LLM development workflows
+- LLM development workflows
 - AI-assisted architecture and code generation
 - prompt engineering systems
 
@@ -157,7 +152,7 @@ Tools I actively use to accelerate engineering:
 
 # 💡 Development Philosophy
 
-I believe modern engineering is evolving into **AI-augmented development**, where engineers design systems and workflows while AI accelerates implementation.
+Modern software engineering is shifting toward **AI-augmented development**, where engineers design systems and workflows while AI accelerates implementation.
 
 My priorities:
 
@@ -165,8 +160,8 @@ My priorities:
 - scalable systems
 - performance-focused design
 - developer productivity
-- leveraging AI responsibly to build better software faster
+- responsible use of AI to build better software faster
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore my repositories!
+⭐ If you find my projects interesting, feel free to explore my repositories.
