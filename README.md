@@ -143,13 +143,13 @@ Tools I actively use in my development workflow:
 
 ---
 
-## MiArtMedia Organization
+## 🏢 MiArtMedia Organization
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiArtMedia&show_icons=true&theme=transparent)
+Development studio and product workspace.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiArtMedia&layout=compact&theme=transparent)
+https://github.com/MiArtMedia
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MiArtMedia&theme=transparent)
+Main repositories and products are developed under this organization.
 
 ---
 
