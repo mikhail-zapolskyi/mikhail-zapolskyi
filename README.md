@@ -1,22 +1,172 @@
-# 💫 About Me:
-Imagine a coding wizard who crafts web apps that respond faster than a caffeinated squirrel! I'm the Full Stack Developer you've been searching for, turning React into a magical spell for seamless front-end wonders. I wield TypeScript like a sword for robustness, and with Node.js and Express.js, I'm like a speedster delivering APIs so efficient they make traditional databases jealous. MongoDB is my trusty sidekick for data management, and I combine React with Express for real-time updates that'll make your app feel more alive than a rock concert. I'm not just a developer, I'm a code-cleaner, a learning machine, and your ticket to innovation. Let's collaborate on exciting projects, because together, we'll create digital magic!
-<ul>
-   <li>🔭 I’m currently learnig <strong>Backend Development and Typescript</strong></li>
-   <li>🌐 Check out my <a href="https://mzapolskyi.com" target="_blank" rel="noopener noreferrer">Portfolio website</a></li>
-   <li>💬 Feel free to <a href="mailto:mykhailo.zapolskyi@gmail.com" target="_blank" rel="noopener noreferrer">drop me a line</a> if you have any questions</li>
-</ul>
+# 👋 Hi, I'm Mykhailo Zapolskyi
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mikhailzapolskyi/) 
+### Full Stack Developer • AI-Augmented Engineer • Next.js / TypeScript
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mikhail-zapolskyi&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mikhail-zapolskyi&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-zapolskyi&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+I build modern web applications that combine **strong engineering fundamentals with AI-assisted development workflows**.  
+My focus is creating **fast, scalable, and intelligent systems** using modern JavaScript ecosystems and the latest AI tools.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mikhail-zapolskyi&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+I'm a **full-stack developer working at the intersection of software engineering and AI-assisted development**.
+
+Instead of using AI as a toy, I design **structured workflows that integrate models like Codex, Claude, and other LLM tools directly into the development process** to accelerate engineering, improve architecture quality, and automate complex tasks.
+
+My approach combines:
+
+- **Next.js / React ecosystems**
+- **TypeScript-first architecture**
+- **Node.js backend systems**
+- **modern observability and system design**
+- **AI-assisted development pipelines**
+
+I enjoy building systems that are:
+
+- ⚡ Fast  
+- 🧠 Intelligent  
+- 🧱 Architecturally clean  
+- 📈 Scalable in production  
+
+---
+
+# 🌐 Major Projects
+
+## 🎨 ColorPageLab
+
+https://colorpagelab.com/
+
+An AI-powered platform that generates **high-quality printable coloring pages** using structured prompt engineering and generative models.
+
+Key features:
+
+- AI generated coloring pages
+- curated printable collections
+- SEO optimized content architecture
+- scalable generation pipeline
+- structured prompt systems
+
+Technologies:
+
+Next.js • TypeScript • AI generation pipelines • automated content systems
+
+---
+
+## 🧠 SynaNote AI
+
+https://synanoteai.com/
+
+An AI-powered note and knowledge platform designed to improve productivity and information organization.
+
+Key features:
+
+- intelligent note generation
+- AI-assisted organization
+- knowledge structuring
+- productivity workflows
+
+Technologies:
+
+Next.js • Node.js • AI integrations • modern SaaS architecture
+
+---
+
+# 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mikhailzapolskyi/)
+
+🌐 Portfolio  
+https://mzapolskyi.com
+
+📩 Contact  
+mykhailo.zapolskyi@gmail.com
+
+---
+
+# 🧰 Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp)
+
+---
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+
+---
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+---
+
+### Databases
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+---
+
+### AI-Assisted Development
+
+Tools I actively use to accelerate engineering:
+
+- OpenAI Codex
+- Claude
+- modern LLM development workflows
+- AI-assisted architecture and code generation
+- prompt engineering systems
+
+---
+
+# 📊 GitHub Analytics
+
+### GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhail-zapolskyi&show_icons=true&hide_border=true)
+
+---
+
+### GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikhail-zapolskyi&hide_border=true)
+
+---
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-zapolskyi&layout=compact&hide_border=true)
+
+---
+
+# 📈 Profile Visitors
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=mikhail-zapolskyi&icon=5&color=12)
+
+---
+
+# 💡 Development Philosophy
+
+I believe modern engineering is evolving into **AI-augmented development**, where engineers design systems and workflows while AI accelerates implementation.
+
+My priorities:
+
+- clean architecture
+- scalable systems
+- performance-focused design
+- developer productivity
+- leveraging AI responsibly to build better software faster
+
+---
+
+⭐ If you find my projects interesting, feel free to explore my repositories!
