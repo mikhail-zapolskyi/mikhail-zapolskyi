@@ -135,10 +135,6 @@ Tools I actively use in my development workflow:
 
 ## Personal Account
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhail-zapolskyi&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-zapolskyi&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=mikhail-zapolskyi)
 
 ---
